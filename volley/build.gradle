@@ -14,8 +14,6 @@
 //     include(":volley")
 //     project(':volley').buildFileName = 'rules.gradle'
 
-import net.ltgt.gradle.errorprone.CheckSeverity
-
 buildscript {
     repositories {
         jcenter()
@@ -64,12 +62,6 @@ android {
     defaultConfig {
         // Keep in sync with src/main/AndroidManifest.xml
         minSdkVersion 8
-    }
-}
-
-tasks.withType(JavaCompile) {
-    options.errorprone {
-        check("ParameterComment", CheckSeverity.ERROR)
     }
 }
 

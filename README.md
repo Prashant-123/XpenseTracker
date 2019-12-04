@@ -34,7 +34,7 @@ I've referenced dribble for UI and layout for this App.
 <img src="https://raw.githubusercontent.com/Prashant-123/XpenseTracker/master/assets/4.png" height=350> <img src="https://raw.githubusercontent.com/Prashant-123/XpenseTracker/master/assets/5.png" height=350><img src="https://raw.githubusercontent.com/Prashant-123/XpenseTracker/master/assets/6.png" height=350> <img src="https://raw.githubusercontent.com/Prashant-123/XpenseTracker/master/assets/7.png" height=350>
 
 ### Projects
-- My Porjects can be seen [HERE](https://docs.google.com/document/d/1Qu5gKhzbQwSis2dWO-hvZXFsKwb6fp3J7pgOZ9IyES0/edit?usp=sharing)
+- My Projects can be seen [HERE](https://docs.google.com/document/d/1Qu5gKhzbQwSis2dWO-hvZXFsKwb6fp3J7pgOZ9IyES0/edit?usp=sharing)
 
 
 ### How to start?
